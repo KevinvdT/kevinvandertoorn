@@ -20,10 +20,14 @@ const Home = () => {
         <Divider />
 
         <About />
+      </PageContainer>
+      <PageContainer maxWidth="76rem">
         <Divider />
 
         <Work />
         <Divider />
+      </PageContainer>
+      <PageContainer>
 
         <Skills />
       </PageContainer>
