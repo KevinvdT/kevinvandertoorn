@@ -18,4 +18,3 @@ Portfolio website built with React, internationalization, and responsive design.
 - **Multi-language Support** - 7 languages with browser detection
 - **Dark/Light Theme** - Automatic system preference detection
 - **SEO Optimized** - Meta tags, Open Graph, and structured data
-- **Performance** - Image optimization and code splitting
